@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Chasi</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="icon">TODO</string>
+    <string name="madventure">MADVENTURE</string>
+    <string name="text2">Rediscover the world</string>
+    <string name="btn">Sign in</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="btn2">Sign in</string>
+    <string name="text3">Go to \nWorldSkills 2019</string>
+    <string name="text4">TODO</string>
+    <string name="text6">10.000 steps</string>
+    <string name="text7">Description</string>
+    <string name="text8">ireghjriehgeriuhgeriughreigheriueriieruhgiruhgierhgiuhgiuhgire reiughierhg eriuhger ihg gh riehghgier hgierhgihih gierhg ihgire hgier hiurh girh girehg ihg ierhg irehg irehg ihgirehgirekhgtrihjtirjgoriejgf oierjhitr</string>
+    <string name="btn3">Send result</string>
+</resources>
